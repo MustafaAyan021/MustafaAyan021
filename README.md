@@ -1,5 +1,5 @@
 # 💫 About Me
-Working on javascript frameworks like react , vue , gsap and more
+Working on javascript frameworks like react , vue and more
 
 
 # 💻 Tech Stack
