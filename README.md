@@ -1,5 +1,5 @@
 # 💫 About Me
-Working on javascript frameworks like react , vue and more
+Hey ! Im Mustafa Ayan , a young 17 years old developer improving day by day with javascript and its frameworks like vue and react , currently focused on frontend.
 
 
 # 💻 Tech Stack
