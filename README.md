@@ -35,9 +35,9 @@ I thrive on solving challenges, exploring the latest tech, and pushing my limits
 
 📈 **My Coding Journey at a Glance:**  
 
-<img src="https://github-readme-stats.vercel.app/api?username=MustafaAyan021&theme=radical&bg_color=000000&text_color=FFFFFF&hide_border=false&include_all_commits=true&count_private=true" width="100%" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MustafaAyan021&theme=radical&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="100%" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAyan021&theme=radical&bg_color=000000&text_color=FFFFFF&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=MustafaAyan021&theme=blueberry&bg_color=000000&title_color=00ADEF&text_color=FFFFFF&icon_color=00ADEF&hide_border=false&include_all_commits=true&count_private=true" width="100%" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MustafaAyan021&theme=blueberry&background=000000&border=FFFFFF&stroke=FFFFFF&ring=00ADEF&fire=00ADEF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="100%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAyan021&theme=blueberry&bg_color=000000&title_color=00ADEF&text_color=FFFFFF&icon_color=00ADEF&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" />  
 
 ---
 
