@@ -35,9 +35,9 @@ I thrive on solving challenges, exploring the latest tech, and pushing my limits
 
 📈 **My Coding Journey at a Glance:**  
 
-<img src="https://github-readme-stats.vercel.app/api?username=MustafaAyan021&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true" width="100%" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MustafaAyan021&theme=graywhite&hide_border=false" width="100%" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAyan021&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=MustafaAyan021&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="100%" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MustafaAyan021&theme=tokyonight&hide_border=false" width="100%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAyan021&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" />  
 
 ---
 
@@ -45,5 +45,6 @@ I thrive on solving challenges, exploring the latest tech, and pushing my limits
 [![](https://visitcount.itsvg.in/api?id=MustafaAyan021&icon=0&color=6)](https://visitcount.itsvg.in)  
 
 🚀 *"Never stop learning, never stop building!"*  
+
 
 
