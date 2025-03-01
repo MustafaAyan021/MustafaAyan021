@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQEE8r7ZIUIlsw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738832134086?e=1746057600&v=beta&t=k2pyVZfAbkjSlkjl_sJ3sSoDYQEWd3QfFsHcF6C53S4" alt="drawing" width="200"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQEE8r7ZIUIlsw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738832134086?e=1746057600&v=beta&t=k2pyVZfAbkjSlkjl_sJ3sSoDYQEWd3QfFsHcF6C53S4" alt="drawing" width="100%"/>
 # 💫 About Me
 Hey ! Im Mustafa Ayan , a young 17 years old developer improving day by day with javascript and its frameworks like vue and react , currently focused on frontend.
 
