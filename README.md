@@ -22,37 +22,6 @@ My journey is all about **continuous learning and building**—from crafting sea
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
 
----
-
-## 📊 GitHub Stats  
-
-📈 **My Coding Journey at a Glance:**  
-
-<img src="https://github-readme-stats.vercel.app/api?username=MustafaAyan021&theme=blueberry&bg_color=000000&title_color=00ADEF&text_color=FFFFFF&icon_color=00ADEF&hide_border=false&include_all_commits=true&count_private=true" width="100%" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MustafaAyan021&theme=blueberry&background=000000&border=FFFFFF&stroke=FFFFFF&ring=00ADEF&fire=00ADEF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="100%" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAyan021&theme=blueberry&bg_color=000000&title_color=00ADEF&text_color=FFFFFF&icon_color=00ADEF&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" />  
-
----
-
-🔍 **Profile Views**  
-[![](https://visitcount.itsvg.in/api?id=MustafaAyan021&icon=0&color=6)](https://visitcount.itsvg.in)  
-
-🚀 *"Never stop learning, never stop building!"*
-
-
-## 📊 GitHub Stats  
-
-📈 **My Coding Journey at a Glance:**  
-
-<img src="https://github-readme-stats.vercel.app/api?username=MustafaAyan021&theme=blueberry&bg_color=000000&title_color=00ADEF&text_color=FFFFFF&icon_color=00ADEF&hide_border=false&include_all_commits=true&count_private=true" width="100%" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MustafaAyan021&theme=blueberry&background=000000&border=FFFFFF&stroke=FFFFFF&ring=00ADEF&fire=00ADEF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="100%" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAyan021&theme=blueberry&bg_color=000000&title_color=00ADEF&text_color=FFFFFF&icon_color=00ADEF&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" />  
-
----
-
-🔍 **Profile Views**  
-[![](https://visitcount.itsvg.in/api?id=MustafaAyan021&icon=0&color=6)](https://visitcount.itsvg.in)  
-
 🚀 *"Never stop learning, never stop building!"*  
 
 
