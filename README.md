@@ -1,5 +1,3 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFyVRaQMRUZnA/profile-displaybackgroundimage-shrink_350_1400/B4DZgSSxcfGsAY-/0/1752653568876?e=1756339200&v=beta&t=-5Xfd0qwESq1-X12UtvOvEFfEvTvXh3BhzvRg2nr7r8" alt="drawing" width="100%"/>
-
 # Hey there! 👋 I'm Mustafa Ayan  
 
 I'm a 17-year-old **full-stack developer** passionate about building modern, scalable, and aesthetic web applications. I specialize in creating elegant and responsive frontends using **Vue.js**, **Vuetify**, **Tailwind CSS**, and **JavaScript**, while powering them with robust and efficient backends built on **PHP** and **Laravel**.  
