@@ -26,7 +26,7 @@ My journey is all about **continuous learning and building**—from crafting sea
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge\&logo=socket.io\&logoColor=white)
 
-### 🖥 Operating System
+### 🖥 Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
