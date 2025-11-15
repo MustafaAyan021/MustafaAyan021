@@ -1,13 +1,3 @@
-# Hey there! 👋 I'm Mustafa Ayan
-
-I'm an 18-year-old **full-stack developer** passionate about building modern, scalable, and aesthetic web applications. I specialize in creating elegant and responsive frontends using **Vue.js**, **Vuetify**, **Tailwind CSS**, and **JavaScript**, while powering them with robust and efficient backends built on **PHP**, **Laravel**, and **Node.js**.
-
-My journey is all about **continuous learning and building**—from crafting seamless user interfaces to architecting backend logic that performs. I love turning ideas into reality and solving real-world problems through code.
-
-🚀 **Let's create something awesome together!**
-
----
-
 ## 💻 Tech Stack
 
 ### 🌐 Frontend
