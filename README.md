@@ -1,3 +1,4 @@
+# 📊 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge\&logo=vuedotjs\&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge\&logo=vuetify\&logoColor=white)
@@ -11,5 +12,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=MustafaAyan021&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=MustafaAyan021&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaAyan021&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
