@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mustafa Ayan
 
-🚀 Full-Stack Developer | Vue & Laravel Enthusiast | Real-Time Web Applications  
+🚀 Full-Stack Developer | Vue & Laravel Enthusiast 
 
 ---
 
@@ -19,7 +19,4 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=MustafaAyan021&theme=dark&hide_border=false)
