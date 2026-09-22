@@ -1,11 +1,12 @@
 ## 🛠️ Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge\&logo=vuedotjs\&logoColor=%234FC08D)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=for-the-badge\&logo=nuxt.js\&logoColor=white)
 ![Nuxt UI](https://img.shields.io/badge/Nuxt%20UI-%2300DC82.svg?style=for-the-badge\&logo=nuxt.js\&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge\&logo=vuetify\&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-%23BC52EE.svg?style=for-the-badge\&logo=astro\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge\&logo=vuedotjs\&logoColor=%234FC08D)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge\&logo=greensock\&logoColor=white)
